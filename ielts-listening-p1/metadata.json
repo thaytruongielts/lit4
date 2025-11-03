@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Listening Practice",
+  "description": "An interactive web application for practicing IELTS Listening Part 1, featuring an embedded audio player, a fill-in-the-blanks questionnaire, answer checking, and a viewable script.",
+  "requestFramePermissions": []
+}
